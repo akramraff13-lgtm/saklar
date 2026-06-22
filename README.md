@@ -1,0 +1,2 @@
+# saklar
+saklar lampu
